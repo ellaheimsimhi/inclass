@@ -18,7 +18,7 @@ using System;
 //}
 #endregion inclass 
 
-
+Console.WriteLine("hello to github");
 
 while (true)
 {
@@ -66,4 +66,5 @@ static void Test()
     {
         throw new Exception("Name is not Ella");
     }
+
 }
